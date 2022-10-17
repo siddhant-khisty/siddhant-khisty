@@ -6,6 +6,9 @@ My name is Siddhant, and I currently work at Devtron as a DevRel intern & Commun
 [![Twitter Badge](https://img.shields.io/badge/-@i__siddhantk-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/i_siddhantk)](https://twitter.com/i_siddhantk)
 ![Discord Badge](https://img.shields.io/badge/-Norioman6095-gray?style=flat-square&logo=Discord&logoColor=white)
 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=siddhant-khisty&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 ## ⚡ Technologies
 
 ### Language :
@@ -29,12 +32,13 @@ My name is Siddhant, and I currently work at Devtron as a DevRel intern & Commun
 
 ## 📈 Stats
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=siddhant-khisty&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhant-khisty&show_icons=true&theme=dracula" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-khisty&theme=dracula" />
  
  </p>
  
+
 
 
