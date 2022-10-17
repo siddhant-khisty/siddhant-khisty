@@ -29,6 +29,9 @@ My name is Siddhant, and I currently work at Devtron as a DevRel intern & Commun
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddhant-khisty&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Stats
 <p align="center">
