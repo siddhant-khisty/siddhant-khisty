@@ -4,7 +4,7 @@ My name is Siddhant, and I currently work at Devtron as a DevRel intern & Commun
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siddhant_Khisty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhant-khisty-16974019b/)](https://www.linkedin.com/in/siddhant-khisty-16974019b/)
 [![Twitter Badge](https://img.shields.io/badge/-@i__siddhantk-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/i_siddhantk)](https://twitter.com/i_siddhantk)
-[![Discord Badge](https://img.shields.io/badge/-Norioman6095-gray?style=flat-square&logo=Discord&logoColor=white&link=mailto:aakanshapriya2000@gmail.com)](mailto:aakanshapriya2000@gmail.com)
+![Discord Badge](https://img.shields.io/badge/-Norioman6095-gray?style=flat-square&logo=Discord&logoColor=white)
 
 ## ⚡ Technologies
 
