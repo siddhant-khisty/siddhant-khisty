@@ -19,7 +19,6 @@ My name is Siddhant, and I currently work at Devtron as a DevRel intern & Commun
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-lightblue?style=flat-square&logo=typescript)
 
-
 ### Design Tools
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
@@ -29,6 +28,12 @@ My name is Siddhant, and I currently work at Devtron as a DevRel intern & Commun
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=blue)
+![Docker](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=Docker&logoColor=blue)
+![Civo](https://img.shields.io/badge/Civo-grey?style=for-the-badge&logo=Civo&logoColor=blue)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-white?style=for-the-badge&logo=DigitalOcean&logoColor=blue)
+![Google Cloud](https://img.shields.io/badge/GCP-yellow?style=for-the-badge&logo=GoogleCloud&logoColor=red)
+
 
 ## 🏆 GitHub Trophies
 
