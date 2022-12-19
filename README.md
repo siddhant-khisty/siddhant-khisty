@@ -8,7 +8,7 @@ My name is Siddhant, and I am a Program Maanger at WeMakeDevs and the co-organiz
 [![Hashnode Badge](https://img.shields.io/badge/-@siddhantkhisty-lightblue?style=flat-square&logo=Hashnode&logoColor=blue)](https://hashnode.com/@siddhantkhisty)
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=siddhant-khisty&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=siddhant-khisty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡ Technologies
 
