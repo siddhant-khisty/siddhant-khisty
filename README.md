@@ -1,6 +1,6 @@
 ## Hi, I am Siddhant! Thanks for checking out this page! 👋
 
-My name is Siddhant, and I am a Program Maanger at WeMakeDevs and the co-organizer for CNCF Nashik. I have decent experience working with Kubernetes and related cloud technologies. I love technology, and I'm interested in communities. I'm always up for working with others on new initiatives and concepts. Learn more below, and feel free to reach out:
+My name is Siddhant, and I am a Program Manger at WeMakeDevs and the co-organizer for CNCF Nashik. I have decent experience working with Kubernetes and related cloud technologies. I love technology, and I'm interested in communities. I'm always up for working with others on new initiatives and concepts. Learn more below, and feel free to reach out:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siddhant_Khisty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhant-khisty-16974019b/)](https://www.linkedin.com/in/siddhant-khisty-16974019b/)
 [![Twitter Badge](https://img.shields.io/badge/-@i__siddhantk-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/i_siddhantk)](https://twitter.com/i_siddhantk)
