@@ -4,7 +4,6 @@ My name is Siddhant, and I am a Program Mangaer at WeMakeDevs and the co-organiz
 
 [![Linkedin Badge](https://img.shields.io/badge/-Siddhant_Khisty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhant-khisty-16974019b/)](https://www.linkedin.com/in/siddhant-khisty-16974019b/)
 [![Twitter Badge](https://img.shields.io/badge/-@i__siddhantk-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/i_siddhantk)](https://twitter.com/i_siddhantk)
-![Discord Badge](https://img.shields.io/badge/-Siddhant\ Khisty6095-gray?style=flat-square&logo=Discord&logoColor=white)
 [![Hashnode Badge](https://img.shields.io/badge/-@siddhantkhisty-lightblue?style=flat-square&logo=Hashnode&logoColor=blue)](https://hashnode.com/@siddhantkhisty)
 
 
