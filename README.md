@@ -42,9 +42,8 @@ My name is Siddhant, and I am a Program Mangaer at WeMakeDevs and the co-organiz
 <p align="center">
 
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhant-khisty&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=siddhant-khisty&theme=dracula" />
- 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhant-khisty&show_icons=true&theme=dracula" /> 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=siddhant-khisty&theme=dracula)](https://git.io/streak-stats)
  </p>
  
 
