@@ -1,6 +1,6 @@
 ## Hi, I am Siddhant! 👋
 
-A 22 tech & business geek from India with a hint of creativity
+A tech & business geek from India with a hint of creativity
 
 - 🦔 Founder of [NorioHub](https://discord.gg/Y4AbDNKCVw), a Tech & Health community 
 
