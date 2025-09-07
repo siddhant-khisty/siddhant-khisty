@@ -4,10 +4,6 @@ A tech & business geek from India with a hint of creativity
 
 - 🦔 Founder of [NorioHub](https://discord.gg/Y4AbDNKCVw), a Tech & Health community 
 
-- 👨‍💻 Working at [Devtron](https://devtron.ai/)
-  
-- 🧭 Organizer at [CNCG Nashik](https://community.cncf.io/nashik/)
-
 - 👥 Infrastructure & DevOps Geek
 
 - 📋 CKA Certified
