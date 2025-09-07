@@ -19,7 +19,6 @@ A tech & business geek from India with a hint of creativity
 + a lot more :D
 
 ## Contact
-- 🌍 [siddhantkhisty.com](https://siddhantkhisty.com/) 
 - 🐥 [@i_siddhantk](https://twitter.com/i_siddhantk) on Twitter
 - 👔 [Siddhant Khisty](https://www.linkedin.com/in/siddhant-khisty/) on LinkedIn
 - 👾 [@SiddhantKhisty](https://www.youtube.com/@siddhantkhisty) on YouTube
